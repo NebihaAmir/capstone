@@ -1,0 +1,13 @@
+{
+  "sampleData": {
+    "6fa125f6-d6b6-40b2-8217-2484b5e421b7": {
+      "payload": "sample_data/object.dwl"
+    },
+    "4e613f97-e8d6-4208-8d96-73378a9d16cf": {
+      "payload": "sample_data/object_1.dwl"
+    },
+    "2b10cb2b-0f50-496b-9797-c33e75fa9686": {
+      "vars-flowVars": "sample_data/defaultnulltype.dwl"
+    }
+  }
+}
